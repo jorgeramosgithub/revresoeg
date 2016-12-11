@@ -7,6 +7,6 @@ import javax.xml.ws.Endpoint;
  */
 public class hola {
     public static void main(String[] argv) {
-        System.out.print("Hola Edmundo!");
+        System.out.print("Hola magda!");
     }
 }
